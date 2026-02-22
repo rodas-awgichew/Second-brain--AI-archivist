@@ -1,0 +1,5 @@
+{
+  "name": "Personal AI Archivist",
+  "description": "A Brutalist-Minimalist 'Second Brain' application. Upload notes, documents, and images, then use an AI chat interface to query your personal knowledge base.",
+  "requestFramePermissions": []
+}
